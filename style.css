@@ -1,0 +1,294 @@
+/* *{
+  background-color: red;
+} */
+1#btn1{
+  margin-left: 40%;
+}
+.container1{
+  margin-top: 40px;
+  padding: 50px;
+  background-color: pink;
+  width: 700px;
+  border: 5px solid red;
+  border-radius: 30px;
+  padding: 50px;
+}
+#age{
+  background-color:  Green;
+  color: Purple;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 37px;
+}
+.inside1{
+  background-color: pink;
+  border: 1px solid pink;
+  border-radius: 30px;
+}
+.age1{
+  font-size: 30px;
+  color: yellow
+}
+.weight1{
+  font-size: 30px;
+  color: yellow
+}
+.btn4{
+  margin-left: 130px;
+  margin-top: 20px;
+  margin-right: 160px;
+  margin-bottom: 20px;
+  font: 90px;
+  border: 5px solid red;
+  border-style:ridge;
+}
+#weight{
+  background-color:  Green;
+  color: Purple;
+  font-size: 30px;
+  font-weight: bold;
+}
+.feet1{
+  font-size: 30px;
+  color: yellow
+}
+#feet{
+  background-color:  Green;
+  color: Purple;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left:  18px;
+}
+.inch1{
+  font-size: 30px;
+  color: yellow
+}
+#inch{
+  background-color:  Green;
+  color: Purple;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 4px;
+}
+#bmi1{
+  height: 200px;
+  width: 500px;
+}
+
+.container2{
+  top: 0;
+  margin-top: 40px;
+  float: right;
+  margin-right: 0;
+  padding: 50px;
+  background-color: maroon;
+  width: 550px;
+  height: 860px;
+  border: 5px solid maroon;
+  border-radius: 30px;
+  margin-bottom: 0;
+}
+#height{
+  margin-left: 10%;
+  font-size: 30px;
+  color: yellow
+}
+.butn1{
+  background-color: grey;
+  height: 70px;
+  width: 1506px;
+}
+#btn1{
+  background-color: white;
+  border: 1px solid black;
+  margin-top: 35px;
+  margin-left: 25%;
+}
+#btn2{
+  background-color: white;
+  border: 1px solid black;
+  margin-top: 45px;
+  margin-left: 50%;
+
+}
+.container3{
+    margin-top: 0;
+    margin-left: 50px;
+    margin-right: 0;
+    padding: 50px;
+    background-color: solid orange;
+    width: 500px;
+    border: 5px solid red;
+    border-radius: 30px;
+    height: 450px;
+    background-color: red;
+    float: right;
+}
+.dob{
+  margin-left: 80px;
+  font-size: 30px;
+  border: 2px red;
+  color: Green;
+}
+.inside3{
+  margin-top: 30px;
+  background: solid orange;
+  border: 3px solid red;
+  border-radius: 30px;
+  border-right-width: thick;
+  margin-left:  -5px;
+  height: 390px;
+  background-color: orange;
+  width: 500px;
+  margin-bottom: 30px;
+}
+#zod{
+  margin-top: 20px;
+  margin-left: 50px;
+  background-color: orange;
+  border: none;
+  font-family:monospace;
+  font-size: 40px;
+  color: Red;
+  height: 50px;
+  width: 250px;
+  margin-left: 30px;
+}
+.tet{
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 40px;
+  color: red;
+}
+#head{
+  background-color: pink;
+  height: 2000px;
+}
+#ddd{
+  font-weight: bold;
+  color: green;
+}
+#c3{
+  margin-bottom: 60px;
+  color: black;
+  height: 10px;
+  margin-left: 70px;
+}
+.in1{
+  margin-left: 70px;
+  margin-top: 20px;
+  margin-right: 30px;
+  border: 3px solid red;
+  border-radius: 20px;
+  width: 360px;
+  height: 250px;
+}
+.yt{
+  margin-top: 15px;
+  margin-left: 50px;
+  font-family: monospace;
+  border: 2px solid orange;
+  margin-right: 70px;
+}
+
+#p1{
+  height: 250px;
+  width: 200px;
+  border: 5px solid red;
+  margin-right: 30px;
+  border-radius: 30px;
+}
+#p2{
+  height: 250px;
+  width: 200px;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin-right: 30px;
+}
+#p3{
+  height: 250px;
+  width: 200px;
+  border: 5px solid red;
+  border-radius: 30px;
+}
+#p4{
+  height: 250px;
+  width: 200px;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin-top: 5%;
+  margin-right: 30px;
+}
+#p5{
+  height: 250px;
+  width: 200px;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin-right: 30px;
+}
+#p6{
+  height: 250px;
+  width: 200px;
+  border: 5px solid red;
+  border-radius: 30px;
+}
+#p7{
+  height: 250px;
+  width: 200px;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin-right: 30px;
+  margin-top: 5%;
+}
+h1{
+  margin-left: 10%;
+  text-decoration: underline;
+  border-width: 60px;
+  color: magenta;
+}
+#p8{
+  height: 250px;
+  width: 200px;
+  border: 5px solid red;
+  border-radius: 30px;
+  margin-right: 30px;
+  transition: 0.2s
+}
+#p9{
+  height: 250px;
+  width: 200px;
+  border: 5px solid red;
+  border-radius: 30px;
+}
+#btn3{
+  margin-left: 200px;
+  height: 50px;
+  background: green;
+}
+.inside2{
+  background-color: blue;
+  border: 5px solid black;
+  border-radius: 30px;
+}
+#final{
+  margin-left: 30px;
+  font-size: 30px;
+  color: yellow;
+}
+#bmi1{
+  height: 40px;
+  width: 500px;
+  background-color: blue;
+  border: 1px solid blue;
+  font-size: 20px;
+  font-weight: bold;
+  color: magenta;
+}
+#btn3{
+  border: 2px solid Green;
+  font: 10px;
+}
+
+#message1{
+  margin-left: 40px;
+}
